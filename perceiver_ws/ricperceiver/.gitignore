@@ -1,0 +1,4 @@
+checkpoints/*
+ricperceiver.egg-info/*
+__pycache__/*
+wandb/*

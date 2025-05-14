@@ -1,0 +1,3 @@
+perceiver_data/*
+checkpoints/*
+wandb/*

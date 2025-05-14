@@ -1,0 +1,4 @@
+cose fatte:
+-aumentato n_latents e dim_latents a 512, sembra andare un filino meglio ma non troppo
+-diminuito img_size a 128 e sembra andare molto peggio
+-provato resnet101
